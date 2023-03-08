@@ -1,6 +1,5 @@
-.con-box{width: 100%;}
-
-.con-box .box{ width: 590px; padding: 15px; margin: 0 auto;}
-.con-box .box h2{font-size: 15px; font-weight: 700; border-bottom: 1px solid #333; padding-bottom: 20px; margin-bottom: 30px; }
-.con-box .box h3{font-size: 25px; font-weight: 700; margin-bottom: 25px;margin-top: 30px;}
-.con-box .box p{font-size: 15px; margin-bottom: 80px;}
+.con-box{width: 100%; }
+.con-box .inner{ width: 590px; padding: 15px 13px; margin: 0 auto; box-sizing: border-box; }
+.con-box .inner strong{font-size: 15px; font-weight: 700; display: block; border-bottom: 1px solid #333;  padding-bottom: 20px; }
+.con-box .inner h2, .con-box .inner h3{font-size: 24px; font-weight: 700; margin: 30px 0 25px 0;}
+.con-box .inner p{font-size: 16px; font-weight: 500; margin-bottom: 80px;}
