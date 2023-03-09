@@ -1,0 +1,14 @@
+/* 
+.con-box{width: 875px; padding: 50px 130px; background-color: #efefef; margin: auto;}
+.con-box h2{font-size: 32px; text-align: center; margin-bottom: 45px; }
+.con-box h2 .txt1{border-bottom: 1px solid #000; padding: 5px 0;}
+.con-box h2 .txt2{font-weight: 500; border-bottom: 1px solid #000; padding: 5px 0;}
+.con-box p{margin-bottom: 13px; text-align: center;}
+.con-box .img-txt{} 
+*/
+.con-box{width: 880px; background-color: #efefef; margin: auto; text-align: center;}
+.con-box h2{font-size: 32px; padding-top: 50px; margin-bottom: 55px; font-weight: 300;}
+.con-box h2 span{ border-bottom: 1px solid #999; padding-bottom: 5px; line-height: 1.8;}
+.con-box h2 .txt2{font-weight: 700; }
+.con-box p{font-size: 20px;}
+.con-box .img-txt{font-size: 16px; margin-top: 10px;}

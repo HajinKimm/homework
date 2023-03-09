@@ -1,0 +1,10 @@
+.con-box{
+    width: 520px;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: #efefef;
+    padding: 32px 30px;
+}
+.con-box h2{word-break: keep-all; font-size: 30px;line-height: 1.7; margin-bottom: 85px;}
+.con-box h2 span{border-bottom: 1px solid #000; padding-bottom: 5px;}
+.con-box p{font-size: 18px; line-height: 1.7;}
