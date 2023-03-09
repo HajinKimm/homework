@@ -1,0 +1,13 @@
+#wrap, #header, #content, #footer{width: 100%;}
+.inner{margin: auto; width: 1200px;}
+
+#header {background: #686C77;}
+#header .inner{ height: 153px;}
+
+#content .intro .inner{height: 1460px;}
+#content .intro .inner h2{margin: 90px 0 50px; font-size: 40px; font-weight: 700; text-align: center;}
+#content .intro .inner h3{font-size: 28px; font-weight: 700;margin-top: 60px;}
+#content .intro .inner p{font-size: 15px;margin-top: 25px;}
+
+#footer, #header .inner {background: #D3D3D3;}
+#footer .inner{background: #ACACAC; height: 255px;}
